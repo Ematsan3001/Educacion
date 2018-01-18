@@ -1,2 +1,0 @@
-# Educacion
-Prueba Repositorio Educación
